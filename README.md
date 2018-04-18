@@ -26,7 +26,7 @@ Science Dashboard is a website for visualizing implementations of several free a
 
 ### Contributors
 * [MarchosiasM](https://github.com/MarchosiasM)
-* [Lolaliz](https://github.com/MarchosiasM) 
+* [Lolaliz](https://github.com/Lolaliz) 
 * [mmansi18](https://github.com/mmansi18)
 * [rperez2021](https://github.com/rperez2021)
 
